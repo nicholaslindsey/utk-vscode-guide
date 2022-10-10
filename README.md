@@ -21,7 +21,7 @@ This guide will eventually be preceded/appended with a list of useful commands f
 
 Click the buttons in this order to sign in:
 
-![Image of vscode)](/utk-vscode-guide/images/loggingintovscode.png)
+![Image of vscode)](images/loggingintovscode.png)
 
 You will need to sign in using a GitHub account or a microsoft account.
 I recommend using a GitHub account.
@@ -32,10 +32,10 @@ You can now set a color theme and customize your VSCode. I also highly recommend
 I will just list the best ones to use for C++ here, since that is what we use at UTK.
 
 Here's how: click the button in the red box in this image.
-![Image of vscode showing extension button](/utk-vscode-guide/images/installingextensions.png)
+![Image of vscode showing extension button](images/installingextensions.png)
 
 Here's the list you should install:
-![List of extensions](/utk-vscode-guide/images/extensionlist.png)
+![List of extensions](images/extensionlist.png)
 
 That's it setting up VSCode, unless you want to customize your font and font size, which you can do easily by using the `Ctrl + ,` shortcut, or by clicking the cog wheel in the bottom left corner and clicking **Settings**.
 
